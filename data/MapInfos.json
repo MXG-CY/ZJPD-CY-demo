@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"开场","order":1,"parentId":0,"scrollX":451,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"舞台","order":2,"parentId":1,"scrollX":451,"scrollY":311.5},
+{"id":3,"expanded":false,"name":"化妆间","order":3,"parentId":1,"scrollX":451,"scrollY":311.5},
+{"id":4,"expanded":false,"name":"草草房间335","order":4,"parentId":1,"scrollX":451,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"嘉兴路","order":5,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"中心三楼2","order":7,"parentId":1,"scrollX":451,"scrollY":311.5},
+{"id":7,"expanded":false,"name":"中心三楼1","order":6,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"芸姐吕一房间353","order":8,"parentId":1,"scrollX":451,"scrollY":312.5},
+{"id":9,"expanded":false,"name":"草草房间335（前）","order":9,"parentId":1,"scrollX":451,"scrollY":311.5},
+{"id":10,"expanded":false,"name":"食堂","order":10,"parentId":1,"scrollX":451,"scrollY":311.5}
+]

@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"WXJ","characterIndex":0,"characterName":"WXJ","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"WXJ","traits":[],"initialLevel":1,"maxLevel":99,"name":"王小家","nickname":"天草","note":"","profile":""},
+{"id":2,"battlerName":"JY","characterIndex":0,"characterName":"JY","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"JY","traits":[],"initialLevel":1,"maxLevel":99,"name":"将芸","nickname":"芸姐","note":"","profile":""}
+]
